@@ -1,0 +1,9 @@
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\bin\Debug\netcoreapp3.1\BidvestData.Common.deps.json
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\bin\Debug\netcoreapp3.1\BidvestData.Common.dll
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\bin\Debug\netcoreapp3.1\BidvestData.Common.pdb
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.AssemblyInfoInputs.cache
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.AssemblyInfo.cs
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.csproj.CoreCompileInputs.cache
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.dll
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.pdb
+D:\VS Projects\BidvestData.PracticalTest\BidvestData.Common\obj\Debug\netcoreapp3.1\BidvestData.Common.csprojAssemblyReference.cache
